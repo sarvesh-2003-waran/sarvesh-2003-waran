@@ -12,7 +12,7 @@ Front-end Developer - Fresher
 ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)![Git](https://img.icons8.com/color/48/git.png)![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)![Canva](https://img.icons8.com/color/48/canva.png)
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/sarveshwaran2003?theme=light&font=Roboto)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sarveshwaran2003?theme=dark&font=Spline%20Sans%20Mono)
 
 ### Contact
 - Phone : +91-8754772877
