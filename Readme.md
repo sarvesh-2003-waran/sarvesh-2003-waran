@@ -11,6 +11,8 @@ Front-end Developer - Fresher
 ### IDE and Tools I Use
 ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)![Git](https://img.icons8.com/color/48/git.png)![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)![Canva](https://img.icons8.com/color/48/canva.png)
 
+![GFG Stats](https://geeksforgeeks-stats-api.herokuapp.com/?user=sarveshs7jcs)
+
 ### Contact
 - Phone : +91-8754772877
 - Gmail : sarveshsanj2003@gmail.com
