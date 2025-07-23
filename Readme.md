@@ -7,11 +7,9 @@ Front-end Developer - Fresher
 ![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### I code in
-![HTML5 Logo](https://img.icons8.com/color/48/html-5--v1.png)![Python](https://img.icons8.com/color/48/python.png)![CSS3](https://img.icons8.com/color/48/css3.png)![JavaScript](https://img.icons8.com/color/48/javascript.png)![React](https://img.icons8.com/color/48/react-native.png)
+![HTML5 Logo](https://img.icons8.com/color/48/html-5--v1.png)![Python](https://img.icons8.com/color/48/python.png)![CSS3](https://img.icons8.com/color/48/css3.png)![JavaScript](https://img.icons8.com/color/48/javascript.png)![React](https://img.icons8.com/color/48/react-native.png)![Tailwind CSS](https://img.icons8.com/color/48/tailwind_css.png)
 ### IDE and Tools I Use
 ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)![Git](https://img.icons8.com/color/48/git.png)![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)![Canva](https://img.icons8.com/color/48/canva.png)
-
-![GFG Stats](https://geeksforgeeks-stats-api.herokuapp.com/?user=sarveshs7jcs)
 
 ### Contact
 - Phone : +91-8754772877
